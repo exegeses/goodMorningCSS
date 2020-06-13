@@ -13,13 +13,13 @@
     
 ## Fórmulas  
 
-###Fórmula del HTML
+### Fórmula del HTML
 
     <elemento atributo="valor">    
        objeto   
     </elemento>
     
-###Fórmula del CSS
+### Fórmula del CSS
 
     selector{
         atributo: valor;
