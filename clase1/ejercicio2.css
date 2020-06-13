@@ -1,0 +1,14 @@
+body{
+    background-color: #cff6ef;
+    color: #13352f;
+    font-family: Helvetica;
+    font-size: 1.2em;
+}
+li{
+    list-style-type: hiragana;
+}
+#destacado {
+    background-color: #fff;
+    padding: 16px;
+    margin-left: 25px;
+}

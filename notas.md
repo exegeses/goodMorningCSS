@@ -24,3 +24,11 @@
     selector{
         atributo: valor;
     } 
+    
+## Tipos de selectores
+
+  1. de etiqueta
+  2. de id
+  3. de class
+  
+
