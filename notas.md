@@ -41,3 +41,8 @@
     Just in Mind  https://www.justinmind.com/  
     Adobe XD  https://www.adobe.com/products/xd.html  
     
+TAREA:   
+    1. rehacer maquetado usanod float  
+    2. probar variante cambiando ancho y 3 columnas  
+    3. completar con contenido
+    
