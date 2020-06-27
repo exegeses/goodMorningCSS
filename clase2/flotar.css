@@ -1,0 +1,22 @@
+body{
+    background-color: #303335;
+}
+#azul{
+    background: #2c3ca9;
+    width: 250px;
+    height: 100px;
+    float: left;
+}
+#celeste{
+    background-color: #74e3f1;
+    width: 250px;
+    height: 100px;
+    float: left;
+    margin: 0px 30px;
+}
+#blanco{
+    background-color: #fff;
+    width: 250px;
+    height: 100px;
+    float: left;
+}
