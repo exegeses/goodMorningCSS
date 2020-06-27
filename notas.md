@@ -31,4 +31,13 @@
   2. de id
   3. de class
   
+## Proceso de Maquetado  
+> Primero se debería bocetar - idealmente en papel -   
+> y luego generar un mockup o prototipo
 
+    Balsamiq https://balsamiq.com/  
+    Mockup Plus https://www.mockplus.com/ui-mockup-tool  
+    Wireframe.cc https://wireframe.cc/  
+    Just in Mind  https://www.justinmind.com/  
+    Adobe XD  https://www.adobe.com/products/xd.html  
+    
