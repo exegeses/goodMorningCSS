@@ -1,0 +1,10 @@
+body{
+    width: 800px;
+    margin: auto;
+    font-family: Helvetica;
+}
+section{
+    min-height: 400px;
+    background-color: #ccc;
+     /* overflow: auto; */ /* scroll de caja */
+}
