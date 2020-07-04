@@ -46,3 +46,6 @@ TAREA:
     2. probar variante cambiando ancho y 3 columnas  
     3. completar con contenido
     
+    
+### Web Safe Fonts: listado 
+  https://www.cssfontstack.com/
