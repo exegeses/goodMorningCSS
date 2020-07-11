@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 160px;
+    background-color: #433838;
+}
+#contenido1{
+    height: 500px;
+    background-color: #b1adad;
+    width: 900px;
+    margin: auto;
+}
+#caja1{
+    height: 160px;
+    background-color: #4f4a40;
+}
+main{
+    height: 500px;
+    background-color: #b1adad;
+    width: 900px;
+    margin: auto;
+}
+#caja2{
+    height: 160px;
+    background-color: #3a4338;
+}
+foter{
+    height: 500px;
+    background-color: #b1adad;
+}
