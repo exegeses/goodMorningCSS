@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+body{
+    background-color: #d8d8d8;
+    font-family: Raleway, sans-serif;
+    font-size: 1em;
+    color: #444;
+}
+header{
+    background-color: #fff;
+    height: 80px;
+    padding-top: 30px;
+}
+    header nav{
+        float: right;
+    }
+        header nav a{
+            text-decoration: none;
+            color: #444;
+        }
+.contenedor{
+    width: 900px;
+    margin: auto;
+}
+
+main{
+
+}
+    #principal{
+        width: 700px;
+        margin: auto;
+        padding-top: 50px;
+    }
+    h1{
+        padding: 25px 0px;
+    }
+
+    #subtema1{
+        margin-top: 30px;
+    }
+    #subtema1 img{
+        float: left;
+    }
+    #subtema1 h2{
+        padding: 60px 0 20px 0;
+    }
