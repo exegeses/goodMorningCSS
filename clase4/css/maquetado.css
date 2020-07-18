@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     border: none;
+    text-decoration: none;
 }
 body{
     background-color: #d8d8d8;
@@ -22,6 +23,7 @@ header{
             text-decoration: none;
             color: #444;
         }
+
 .contenedor{
     width: 900px;
     margin: auto;
@@ -47,4 +49,38 @@ main{
     }
     #subtema1 h2{
         padding: 60px 0 20px 0;
+    }
+    #subtema2{
+        clear: both;
+    }
+    #subtema2 #caja{
+        display: inline-block;
+        width: 280px;
+        padding-top: 40px;
+    }
+        #caja h2{
+            padding: 60px 0 20px 0;
+        }
+
+    #subtema2 img{
+        /*display: inline-block; */
+        float: right;
+    }
+
+    nav#features{
+        text-align: center;
+        padding: 20px 0px;
+        clear: both;
+    }
+
+        nav#features a{
+            color: #555;
+            padding: 26px 15px;
+        }
+
+
+footer{
+        height: 140px;
+        background-color: #fff;
+        padding-top: 60px;
     }
