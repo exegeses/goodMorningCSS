@@ -15,7 +15,7 @@ hr{
     margin: 10px 0;
 }
 /* seteo general */
-#contenedor, #contenedor2, #contenedor3, #contenedor4 {
+#contenedor, #contenedor2, #contenedor3, #contenedor4, #contenedor5 {
     background-color: #ccc;
     min-height: 300px;
     display: flex; /* afecta al contenido de esta caja */
@@ -60,3 +60,4 @@ hr{
 #contenedor4 article{
     height: initial; /* resetar la altura */
 }
+
